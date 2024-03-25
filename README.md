@@ -8,7 +8,7 @@
 --------------------------------
 
 Some programs and programming languages I actively use include
-- Javascript
+- Javascript ![javascript]([[http://url/to/img.png](https://4.bp.blogspot.com/-ip5iuspGg38/TfZRK_2cUjI/AAAAAAAAWn0/JC9N6g_Gbfg/s1600/blender_logo11.png)https://4.bp.blogspot.com/-ip5iuspGg38/TfZRK_2cUjI/AAAAAAAAWn0/JC9N6g_Gbfg/s1600/blender_logo11.png](https://th.bing.com/th/id/OIP.apx9RV93xj_wDeJrYJ-exQHaIZ?rs=1&pid=ImgDetMain))
 - CSS
 - HTML
 - Beginnner C#
