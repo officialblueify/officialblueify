@@ -14,4 +14,4 @@ Some programs and programming languages I actively use include
 - Beginnner C#
 - Figma
 - GIMP
-- Blender https://4.bp.blogspot.com/-ip5iuspGg38/TfZRK_2cUjI/AAAAAAAAWn0/JC9N6g_Gbfg/s1600/blender_logo11.png
+- Blender ![blender logo]([http://url/to/img.png](https://4.bp.blogspot.com/-ip5iuspGg38/TfZRK_2cUjI/AAAAAAAAWn0/JC9N6g_Gbfg/s1600/blender_logo11.png)https://4.bp.blogspot.com/-ip5iuspGg38/TfZRK_2cUjI/AAAAAAAAWn0/JC9N6g_Gbfg/s1600/blender_logo11.png)
