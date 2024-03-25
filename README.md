@@ -7,13 +7,13 @@
 
 --------------------------------
 
-```Some programs and programming languages I actively use include
+Some programs and programming languages I actively use include
 - Javascript 
 - CSS
 - HTML
 - Beginnner C#
 - Figma
 - GIMP
-- Blender ```
+- Blender 
 
 In case of a fire, `git commit`, `git push`, leave the building.
