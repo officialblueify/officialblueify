@@ -16,4 +16,4 @@ Some programs and programming languages I actively use include
 - GIMP
 - Blender 
 
-`In case of a fire, git commit, git push, leave the building`.
+In case of a fire, `git commit`, `git push`, leave the building.
