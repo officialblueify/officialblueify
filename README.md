@@ -14,7 +14,7 @@ Some programs and programming languages I actively use include
 - Beginnner C#
 - Figma
 - GIMP
-- Blender ![screenshot](https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-0.png)
+- Blender 
 
 In case of a fire, `git commit`, `git push`, leave the building.
 
