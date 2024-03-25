@@ -15,3 +15,5 @@ Some programs and programming languages I actively use include
 - Figma
 - GIMP
 - Blender 
+
+`In case of a fire, git commit, git push, leave the building`.
